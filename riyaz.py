@@ -11,8 +11,8 @@ from datetime import datetime, timedelta
 from telebot.apihelper import ApiTelegramException
 
 # Convert ADMIN_IDS to a list of integers
-ADMIN_IDS = [7915760293]  # Changed from string to list of integers
-BOT_TOKEN = "7033927494:AAG3LmOwg2qE3_EWFTtBVrWYFa2puuGFkiE"
+ADMIN_IDS = [6942423757]  # Changed from string to list of integers
+BOT_TOKEN = "7023947788:AAFV0vxTu1PXa5F1rHofJFUdGCguXkaOWMU"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 redeemed_keys = set()
